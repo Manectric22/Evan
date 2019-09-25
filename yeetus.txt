@@ -1,0 +1,4 @@
+function start(){
+    var etwas = "Evan likes S'Awesome sauce with Hawaiian Pizza";
+    println(etwas);
+}
